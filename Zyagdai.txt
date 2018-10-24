@@ -675,7 +675,7 @@ vokogamasíi	烏滸がましい
 vomná	女(おんな<vomina*)
 votokáw	男
 votóme	乙女/処女(おとめ)
-vyófü	酔う(<ゑふ)
+jófü	酔う(<ゑふ)
 xabéru	侍る(<這ひあり?)(?)
 xabikóru	蔓延る(<ほびこる)
 xafi	灰(?)
